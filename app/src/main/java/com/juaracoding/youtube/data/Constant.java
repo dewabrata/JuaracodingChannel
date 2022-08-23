@@ -3,7 +3,7 @@ package com.juaracoding.youtube.data;
 public class Constant {
 
     /* replace with your own API_KEY */
-    public static String YOUTUBE_API_KEY = "AIzaSyCMiaPJ_fyibNqeDZH2g0-wbV0eIGHvJJU";
+    public static String YOUTUBE_API_KEY = "API_KEY-DISINI";
 
     public static String BASE_URL = "https://www.googleapis.com/youtube/v3/";
     public static String YOUTUBE_URL = "https://www.youtube.com/watch?v=";
