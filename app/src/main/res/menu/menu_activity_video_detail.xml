@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/search"
+        myapp:showAsAction="always" />
+
+    <item android:id="@+id/save"
+        android:icon="@drawable/ic_bookmark_border"
+        android:title="@string/search"
+        myapp:showAsAction="always" />
+</menu>

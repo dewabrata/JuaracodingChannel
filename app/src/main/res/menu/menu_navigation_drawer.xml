@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/grp_1"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_description"
+            android:checked="true"
+            android:icon="@drawable/ic_info"
+            android:title="@string/title_nav_description" />
+
+        <item
+            android:id="@+id/nav_subscribe"
+            android:checked="true"
+            android:icon="@drawable/ic_subscriptions"
+            android:title="@string/title_nav_subscribe" />
+
+        <item
+            android:id="@+id/nav_notification"
+            android:checked="true"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/title_nav_notif" />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:checked="true"
+            android:icon="@drawable/ic_thumb_up"
+            android:title="@string/title_nav_rate" />
+
+    </group>
+
+</menu>

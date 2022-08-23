@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/activity_notification.xml" value="0.1" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/activity_splash.xml" value="0.152" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/activity_video_detail.xml" value="0.12552083333333333" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/fragment_about.xml" value="0.12552083333333333" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/fragment_home.xml" value="0.12552083333333333" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/include_ad_banner.xml" value="0.12552083333333333" />
+        <entry key="..\:/youtubers_main_file_3.4/Youtubers/app/src/main/res/layout/toolbar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

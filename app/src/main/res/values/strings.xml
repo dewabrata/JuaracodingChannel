@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Juaracoding Channel</string>
+
+    <string name="notification_channel_default">Default</string>
+    <string name="title_activity_notification">Notification</string>
+
+    <string name="publisher_id">pub-3940256099942544</string>
+    <string name="privacy_policy_url">
+        http://dream-space.web.id/doc_privacy/privacy_policy.php?name=Youtubers
+    </string>
+
+
+    <string name="tab_menu_home">HOME</string>
+    <string name="tab_menu_playlist">PLAYLIST</string>
+    <string name="tab_menu_favorite">FAVORITE</string>
+    <string name="tab_menu_about">ABOUT</string>
+    <string name="info_loaded">Channel info updated</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="error_init_failure">Initialization failure: Unable to play video</string>
+    <string name="no_desc_video">No description</string>
+    <string name="search">Search</string>
+    <string name="deleted_or_private">[Deleted/private video]</string>
+
+    <string name="description">Copyright Juaracoding 2021.</string>
+    <string name="version">Version %1$s</string>
+
+    <string name="input_keyword">Enter keyword</string>
+    <string name="fill_form">Please fill keyword input first</string>
+    <string name="failed_connect_server">Failed when contacting Server</string>
+    <string name="no_internet_text">No Internet Connection</string>
+    <string name="content_delete_confirm">Are you sure want to delete all&#160;</string>
+    <string name="delete_success">Delete successfully</string>
+
+    <string name="one_video">Video</string>
+    <string name="more_than_one_video">Videos</string>
+
+    <string name="app_of_out_update">App out of date</string>
+    <string name="app_of_out_update_msg">Your app is out of date, please update to get latest feature</string>
+
+    <!--drawer menu-->
+    <string name="title_nav_subscribe">Subscribe</string>
+    <string name="title_nav_description">Description</string>
+    <string name="title_nav_notif">Notification</string>
+    <string name="title_nav_rate">Rate this app</string>
+
+    <string name="total_video">%1$d Videos</string>
+    <string name="failed_load_channel_info">Failed load channel info\nTap to retry</string>
+    <string name="dialog_desc_title">Channel Description</string>
+
+    <string name="UPDATE">UPDATE</string>
+    <string name="EXIT_APP">EXIT APP</string>
+    <string name="DELETE">DELETE</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="YES">YES</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="WATCHED">WATCHED</string>
+
+</resources>
